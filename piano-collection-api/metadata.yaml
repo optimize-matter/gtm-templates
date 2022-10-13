@@ -10,8 +10,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://www.optimize-matter.com"
+documentation: "https://www.optimize-matter.com/blog/implementer-piano-analytics-avec-gtm-server-side"
 versions:
   - sha: 62a8b3809f8e8849f31b6d5e55bb6f695af7c547
     changeNotes: Initial Version
