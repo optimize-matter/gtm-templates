@@ -13,5 +13,5 @@
 homepage: "https://www.optimize-matter.com/"
 documentation: "https://www.optimize-matter.com/blog/implementer-piano-analytics-avec-gtm-server-side"
 versions:
-  - sha: 
+  - sha: 7a57abfd71795f5247c84b75780cdc21e1a76ed9
     changeNotes: Initial Version
